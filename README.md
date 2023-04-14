@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/santhutn/pipelines-java/_apis/build/status%2Fsanthutn.pipelines-java?branchName=main)](https://dev.azure.com/santhutn/pipelines-java/_build/latest?definitionId=15&branchName=main)
 
 # Contributing
 
